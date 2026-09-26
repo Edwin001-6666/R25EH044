@@ -1,0 +1,3 @@
+﻿GitHub Fundamentals Assignment - R25EH044
+
+This repository demonstrates basic Git and GitHub concepts including repository creation, version control, commits, and remote repository management.
